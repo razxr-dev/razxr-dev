@@ -2,7 +2,7 @@
 
 ## I'm a passionate developer
 - 📌 Newly founded a German coding community
-- 🔨 Working on a alt:V Framework
+- 🔨 Currently working on a alt:V Framework
 - 🔱 Projectlead of ReactV (alt:V Multiplayer)
 
 ### Languages and tools:
