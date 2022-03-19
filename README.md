@@ -1,7 +1,7 @@
 ### Hi, I'm Nico - aka razxr
 
 ## I'm a passionate developer
-- 🔨 Currently working on a RageMP-Server
+- 🔨 Currently working on a GTA5 Server
 
 ### Languages and tools:
 
