@@ -1,9 +1,7 @@
 ### Hi, I'm Nico - aka razxr
 
 ## I'm a passionate developer
-- 📌 Newly founded a German coding community
-- 🔨 Currently working on a alt:V Framework
-- 🔱 Projectlead of ReactV (alt:V Multiplayer)
+- 🔨 Currently working on a RageMP-Server
 
 ### Languages and tools:
 
